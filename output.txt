@@ -1,0 +1,5 @@
+summation = 35
+Subtraction = 15
+multiplication = 250
+division = 2
+Division 2 = 7.500000
