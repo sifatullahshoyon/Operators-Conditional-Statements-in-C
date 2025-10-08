@@ -8,4 +8,6 @@ int main(){
     } else{
         printf("Burger Khabo na\n");
     }
+
+    return 0;
 }

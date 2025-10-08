@@ -17,4 +17,6 @@ int main(){
     }else{
         printf("Kisu ei khabo na\n");
     }
+
+    return 0;
 }
